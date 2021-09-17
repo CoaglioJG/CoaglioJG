@@ -1,4 +1,4 @@
-### Hi 👋, I'm João Eduardo
+### Hi 👋, I'm João Coaglio
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoaglioJG&hide=css)](https://github.com/anuraghazra/github-readme-stats)
 <hr />
